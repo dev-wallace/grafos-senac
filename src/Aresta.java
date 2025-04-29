@@ -11,6 +11,10 @@ public class Aresta <T>{
         this.inicio = inicio;
         this.fim = fim;
     }
+
+
+    
+
     public Double getPeso() {
         return peso;
     }
